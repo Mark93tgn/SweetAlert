@@ -1,4 +1,4 @@
-const $btnSimple = document.querySelector("#btnSimple"),
+ const $btnSimple = document.querySelector("#btnSimple"),
     $btnBotonPersonalizado = document.querySelector("#btnBotonPersonalizado"),
     $btnTituloYTexto = document.querySelector("#btnTituloYTexto"),
     $btnHtmlPersonalizado = document.querySelector("#btnHtmlPersonalizado"),
